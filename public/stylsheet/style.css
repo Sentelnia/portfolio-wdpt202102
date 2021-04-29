@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-color : pink;
+}
+
+.avatar{
+    width : 200px
+}
+
+.titre{
+    display: flex;
+}
+
+.cupcake{
+    object-fit: contain;
+    width: 50px
+}
+
+ul img{
+    width: 400px;
+}
